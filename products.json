@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "The Witcher 3",
+        "description": "The Witcher 3: Wild Hunt is a 2015 action role-playing game developed and published by CD Projekt",
+        "price": "20",
+        "image": "/images/Witcher.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Genshin Impact",
+        "description": "Genshin Impact is an action role-playing game developed and published by miHoYo",
+        "price": "0.0",
+        "image": "/images/xiangling.jpg"
+    }
+]
